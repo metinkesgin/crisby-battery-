@@ -17,9 +17,9 @@ AA veya AAA pilleri ölçmek için proje
 "battery.h"
 # Kullanılan Uygulamalar
 Visual Studio   --Code Text Editörü--\
-Platform.IO     --VSCode için gömülü sistem programlama eklentisi--\ 
+Platform.IO     --VSCode için gömülü sistem programlama eklentisi--\
 Aseprite        --LCD pixel çizimleri için--\
-The Dot Factory --Pixel çizimleri bitmap formatına dönüştürmek için--\
+The Dot Factory --Pixel çizimleri bitmap formatına dönüştürmek için--
 
 
 
